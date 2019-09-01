@@ -1,2 +1,2 @@
-# 100dayslearning
+# 100Day-ML-Marathon
 homework
